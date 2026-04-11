@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# ML/Data (Based on project structure)
+MachineLearningCSV/
+archive/
+unsb-nb15/
+*.pkl
+*.png
+
+# OS
+.DS_Store
+Thumb.db
+
+# Sensitive
+firewall_blacklist.txt
